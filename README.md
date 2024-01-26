@@ -5,7 +5,8 @@ In this assignment I was given an opportunity to build a real Rails application 
 ## Features
 
 1. CRUD operations.
-2. Create comments. 
+2. Create and delete comments. 
+3. Simple authentication
 
 
 

@@ -8,6 +8,9 @@ In this assignment I was given an opportunity to build a real Rails application 
 2. Create and delete comments. 
 3. Simple authentication
 
+### Authentication
 
+Login: **dhh**
+Password: **secret**
 
 
